@@ -1,0 +1,12 @@
+{
+  "name": "fs-4",
+  "version": "1.0.0",
+  "description": "Hello world program for exercise 4 of the course \"Wissenschaftliches Arbeiten\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
